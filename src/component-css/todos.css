@@ -1,0 +1,26 @@
+.todos{
+    margin: 15px;
+    background: #f4f4f4;
+    padding: 10px;
+}
+.is-completed {
+    text-decoration: line-through;
+}
+.del-btn{
+    background: #748fe3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    float: right;
+    margin-top: -4px;
+    width: 75px;
+    height: 28px;
+    margin-right: 5px;
+    border-radius: 15px;
+}
+.qq {
+    margin-top: 20px;
+}
+.qqq {
+    margin-top: 20px;
+}
